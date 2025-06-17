@@ -2,7 +2,7 @@
 - 👀 I’m interested in python,html,java,css,c++
 - 🌱 I’m currently learning pthon
 - 💞️ I’m looking to collaborate on embedded systems
-- 📫 How to reach me at: davismochengo0@gamil.com
+- 📫 How to reach me at: davismochengo0@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: curiosity never dies
 
