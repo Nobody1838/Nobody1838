@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nobody1838
-- 👀 I’m interested in python,html,java,css,c++
+- 👀 I’m interested in python,c++
 - 🌱 I’m currently learning pthon
 - 💞️ I’m looking to collaborate on embedded systems
 - 📫 How to reach me at: davismochengo0@gmail.com
